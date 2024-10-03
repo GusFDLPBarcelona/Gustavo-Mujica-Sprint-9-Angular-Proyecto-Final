@@ -1,4 +1,4 @@
-# Nndvvs
+# Este es el último Sprint del bootcamp de Angular de IT Academy. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
